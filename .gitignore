@@ -1,0 +1,6 @@
+/.idea/
+/.gradle/
+
+# Project exclude paths
+/ahold-auth-component/build/
+/spring-component/build/
