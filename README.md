@@ -1,8 +1,5 @@
 # Sam Ahold Go to ical
-
-<p align="center">
-<img alt="header image" src="/.github/go_to_ical.png"/>
-</p>
+![header image](/.github/go_to_ical.png)
 
 Credentials can be set [here](https://github.com/jord1e/sam_ahold_go_to_ical/blob/master/spring-component/src/main/kotlin/nl/jordie24/samics/SamIcsApplication.kt#L47).
 
