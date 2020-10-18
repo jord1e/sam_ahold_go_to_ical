@@ -4,7 +4,7 @@
 Credentials can be set [here](https://github.com/jord1e/sam_ahold_go_to_ical/blob/master/spring-component/src/main/kotlin/nl/jordie24/samics/SamIcsApplication.kt#L47).
 
 Guaranteed to work for regular Albert Heijn employees.  
-I no longer work for Albert Heijn myself, therefore I will not be maintaining this for the foreseeable future.
+I no longer work for Albert Heijn myself, therefore I will not be maintaining this for the foreseeable future. **I will however assist with questions regarding the code via GitHub issues**.
 
 This project is configured to work with MongoDB. It uses the Spring Framework and the Kotlin language.
 
